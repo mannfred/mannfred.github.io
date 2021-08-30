@@ -1,5 +1,7 @@
+name: "麻田 真弘"
+output_dir: "docs"
 navbar:
-  title: "麻田 真弘"
+  title: "PhD Candidate @UBC"
   type: default
   left:
     - text: "Home"
@@ -14,11 +16,16 @@ navbar:
         href: contact.html
       - text: "Fun"
         href: fun.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<mannfred.boehm@ubc.ca>
+    - icon: fa-github fa-lg
+      href: http://github.com/mannfred/
         
 output:
   html_document:
     toc: true
     toc_float: true
-    toc_depth: 3
-    theme: readable
+    toc_depth: 2
+    theme: lumen
     highlight: tango
