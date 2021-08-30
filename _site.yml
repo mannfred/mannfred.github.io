@@ -1,20 +1,20 @@
-name: "麻田 真弘"
+name: "mywebsite"
 output_dir: "docs"
 navbar:
-  title: "PhD Candidate @UBC"
+  title: "phd candidate @ubc"
   type: default
   left:
-    - text: "Home"
+    - text: "home"
       href: index.html
-    - text: "Research"
-      href: Syllabus.html
-    - text: "Mannfred"
+    - text: "research"
+      href: research.html
+    - text: "麻田 真弘"
       menu:
-      - text: "About"
+      - text: "about"
         href: about.html
-      - text: "Contact"
+      - text: "contact"
         href: contact.html
-      - text: "Fun"
+      - text: "fun"
         href: fun.html
   right: 
     - icon: fa-envelope fa-lg
