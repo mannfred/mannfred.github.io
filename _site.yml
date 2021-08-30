@@ -20,5 +20,5 @@ output:
     toc: true
     toc_float: true
     toc_depth: 3
-    theme: jekyll-theme-minimal
+    theme: readable
     highlight: tango
