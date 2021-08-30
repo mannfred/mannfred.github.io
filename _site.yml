@@ -12,6 +12,8 @@ navbar:
       menu:
       - text: "about"
         href: about.html
+      - text: "cv"
+        href: cv.html
       - text: "contact"
         href: contact.html
       - text: "fun"
@@ -24,8 +26,5 @@ navbar:
         
 output:
   html_document:
-    toc: false
-    toc_float: true
-    toc_depth: 2
     theme: lumen
     highlight: tango
