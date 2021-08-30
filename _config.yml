@@ -1,20 +1,3 @@
-navbar:
-  title: "麻田 真弘"
-  type: default
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Research"
-      href: Syllabus.html
-    - text: "Mannfred"
-      menu:
-      - text: "About"
-        href: about.html
-      - text: "Contact"
-        href: contact.html
-      - text: "Fun"
-        href: fun.html
-
 plugins:
   - jekyll-relative-links
 relative_links:
