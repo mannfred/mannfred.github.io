@@ -4,25 +4,20 @@ navbar:
   title: "phd candidate @ubc"
   type: default
   left:
-    - text: "home"
-      href: index.html
+    - text: "welcome"
+      href: welcome.html
     - text: "research"
       href: research.html
-    - text: "麻田 真弘"
-      menu:
-      - text: "about"
-        href: about.html
-      - text: "cv"
-        href: cv.html
-      - text: "contact"
-        href: contact.html
-      - text: "fun"
-        href: fun.html
-  right: 
-    - icon: fa-envelope fa-lg
-      href: mailto:<mannfred.boehm@ubc.ca>
-    - icon: fa-github fa-lg
-      href: http://github.com/mannfred/
+    - text: "cv"
+      href: cv.html
+    - text: "contact"
+      href: contact.html
+    - text: "fun"
+      href: fun.html
+      
+right: 
+  - icon: fa-github fa-lg
+    href: http://github.com/mannfred/
         
 output:
   html_document:
