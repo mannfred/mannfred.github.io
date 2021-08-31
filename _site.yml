@@ -5,7 +5,7 @@ navbar:
   type: default
   left:
     - text: "welcome"
-      href: welcome.html
+      href: index.html
     - text: "research"
       href: research.html
     - text: "cv"
