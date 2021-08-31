@@ -1,12 +1,10 @@
 ---
-title: ""
+title: "research"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## research
 
 published research: [google scholar](https://scholar.google.com/citations?user=wq79h-AAAAAJ&hl=en)

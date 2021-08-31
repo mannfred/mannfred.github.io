@@ -1,12 +1,10 @@
 ---
-title: ""
+title: "contact"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## contact
 
 email: mannfred.boehm@ubc.ca
