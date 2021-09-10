@@ -1,7 +1,7 @@
 name: "mywebsite"
 output_dir: "docs"
 navbar:
-  title: "phd candidate @ubc"
+  title: "mannfred masahiro asada boehm"
   type: default
   left:
     - text: "welcome"
