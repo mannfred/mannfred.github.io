@@ -1,5 +1,5 @@
 ---
-title: "welcome"
+title: "<span style='font-size: 20px'>Mannfred Masahiro Asada Boehm (麻田 真弘)</style>"
 output: html_document
 ---
 
@@ -9,10 +9,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-Hi! I am a PhD Candidate at the [Biodiversity Research Centre](https://biodiversity.ubc.ca/research) and Dept. Botany, University of British Columbia. I am interested in coevolution as a driver of morphological, ecological, and genetic diversity in plants and hummingbirds.
+Hi! I am a PhD Candidate supervised by [Quentin Cronk](http://cronklab.wikidot.com/) and [Jill Jankowski](https://www.zoology.ubc.ca/~jankowsk/) at the Biodiversity Research Centre, University of British Columbia. I am interested in coevolution as a driver of morphological, ecological, and genetic diversity in plants and hummingbirds.
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 いらっしゃいませ！私はUBCの[生物多様性研究センター](https://biodiversity.ubc.ca/research)と植物学部の博士課程の学生です。私は、植物やハチドリの形態的、生態学的、遺伝的多様性の推進力としての共進化に興味を持っています。
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<p align="center">
+![](./media/lupin.JPG){width=40%}\
+Lupin is a 3 year old  [Queensland Heeler](https://en.wikipedia.org/wiki/Australian_Cattle_Dog#In_the_United_States)

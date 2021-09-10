@@ -1,5 +1,5 @@
 ---
-title: "research"
+title: "<span style='font-size: 20px'>research</style>"
 output: html_document
 ---
 
@@ -7,4 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-published research: [google scholar](https://scholar.google.com/citations?user=wq79h-AAAAAJ&hl=en)
+google scholar](https://scholar.google.com/citations?user=wq79h-AAAAAJ&hl=en)\
+
+[cv](./cv.html)\
+
+feel free to [email me](./contact.html) for .pdfs!\

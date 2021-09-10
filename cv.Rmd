@@ -1,0 +1,127 @@
+---
+title: "<span style='font-size: 20px'>cv</style>"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+### rejections, shortcomings, failed attempts
+
+2019 &ndash; manuscript rejection: PNAS, Ecology Letters\
+2018 &ndash; manuscript rejection: Wilson Journal of Ornithology\
+2018 &ndash; Grants for Research (AOS, AmNat)\
+2017 &ndash; Explorer's Club Grant for Research\
+2016 &ndash; Explorer's Club Grant for Research\
+2016 &ndash; NSERC PGS-D\
+2015 &ndash; NSERC CGS-M\
+2014 &ndash; NSERC CGS-M\
+2013 &ndash; Admission into M.Sc. program, Dept. Botany, UBC\
+2012 &ndash; NSERC USRA, Dept. Plant Sciences, Nova Scotia Agricultural College\
+2010 &ndash; Advancement to candidacy, B.Mus (Honours), St. Francis Xavier University\
+2008 &ndash; Admission into B.Mus program, Concordia University\
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+### the good times
+
+**Training**
+
+2017 &ndash; 202? &emsp; Ph.D. Botany, UBC\
+2014 &ndash; 2014 &emsp; M.Sc. Botany, UBC\
+2010 &ndash; 2013 &emsp; B.Sc. Plant Science, Nova Scotia Agricultural College\
+2008 &ndash; 2010 &emsp; Dip. Jazz Studies, St. Francis Xavier University\
+
+&nbsp;
+
+**Published Research**
+
+**Boehm MMA**, Cronk QCB. 2021. Dark extinction: the problem of unknown historical extinctions. *Biology Letters* 17(3): 20210007.\
+
+Freeman BG, Scholer MN, **Boehm MMA**, Heavyside JM, Schluter D. 2020. Adaptation and latitudinal gradients in species interactions: nest predation in birds. *The American Naturalist* 196(6): 160-166.\
+
+**Boehm MMA**, Kennedy JJC, Heavyside JM, Daza A, Guevara-Apaza D, Scholer MN, Jankowski J. 2018. The Manu Gradient as a study system for bird pollination. *Biodiversity Data Journal*, e22241.\
+
+**Boehm MMA**. 2018. Biting the hand that feeds you: wedge-billed hummingbird is a nectar robber of a sicklebill-adapted Andean bellflower. *Acta Amazonica* 48(2): 146-150.\
+
+**Boehm MMA**, Ojeda ID, and Cronk QCB. 2017. Dissecting the ‘bacon and eggs’ phenotype: Transcriptomics of floral colour change in *Lotus*. *Annals of Botany* 120(4): 563-575.\
+
+Rupasinghe HPV, **Boehm MMA**, Sekhon-Loodu S, Parmar I, Bors B, and Jamieson AR. 2015. Anti-inflammatory activity of Haskap cultivars is polyphenols-dependent. *Biomolecules* 5(2): 1079-1098.\
+
+&nbsp;
+
+**In Review**
+
+Santangelo J, et al. [**Boehm MMA** one of 218 authors]. Parallel environmental and evolutionary change in response to global urbanization.\
+
+**Boehm MMA**, Jankowski JE, Cronk QCB. 2021 Plant-pollinator specialization: Origin and measurement of curvature.\
+
+&nbsp;
+
+**Teaching**
+
+*University of British Columbia*\
+
+2020-2021	Seed Plant Taxonomy (Curriculum Development, TA Coordinator)\
+2019-2021	Zoogeography (Curriculum Development, TA)\
+2017-2018 Plant Physiology (TA)\
+2016		Seed Plant Taxonomy (Guest Lecturer)\
+2016    Fundamentals of Evolution (TA)\
+2015 		Cell Biology (Guest Lecturer)\
+2014		Fundamentals of Ecology (TA)\
+
+*Dalhousie University*\
+2013		Integral Calculus	(TA)\
+2012		Differential Calculus (TA)\
+2012    Mathematics for Business (TA)\
+
+&nbsp;
+
+**Presentations**\
+
+**Boehm MMA**, Jankowski JE, Cronk QCB. 2021. Measuring curvature in plant-pollinator systems: concepts, methods, and challenges. Canadian Society for Ecology and Evolution (virtual).\
+
+**Boehm MMA**, Jankowski JE, Cronk QCB. 2021. The evolution of curvature in plant-pollinator systems: What have we learned 40 years later? Eco-Evo Retreat (virtual).\ 
+
+**Boehm MMA**. 2017. Buff-tailed Sicklebill is a pollinator of *Centropogon granulosus*. Eco-Evo Retreat, Brackendale, B.C.\
+
+**Boehm MMA**, Ojeda DI, Cronk QCB. 2017. Dissecting the ‘bacon and eggs’ phenotype: Transcriptomics of floral colour change in *Lotus*. Canadian Society for Ecology and Evolution, Victoria, B.C.\
+
+**Boehm MMA**. 2016. Transcriptomics reveals candidate genes driving the evolution of carnivory in *Genlisea hispidula*. UBC Department of Botany Symposium, Vancouver, B.C.\
+
+**Boehm MMA**. 2015. Evolution of floral colour change in *Lotus filicaulis*. Eco-Evo Retreat, Brackendale, B.C.\
+
+HPV Rupasinghe, **Boehm MMA**, I. Parmar, S. Sekhon-Loodu, and. 2014. Anti-inflammatory properties of polyphenols of haskap (*Lonicera caerulea* L.) berry. The 17th World Congress of Food Science and Technology and Expo (IUFoST). Montreal, QC.\
+
+&nbsp;
+
+**Grants, Awards, Scholarships (CAD)**
+
+2021	Samantha Hicks Memorial Prize, UBC ($1100)\
+2020  Hesse Research Award in Ornithology ($1800)\
+2018	Hesse Research Award in Ornithology ($3350)\
+2018	NSERC Postgraduate Scholarship D3 ($63000)\
+2017	Heliconia Society International Award for Research ($1250)\
+2016	Walter H. Lewis Award in Plant Biodiversity ($1000)\
+2016	Student Leadership Award, Student Refugee Program, UBC\  
+2016	Four Year Doctoral Fellowship, UBC ($72800)\
+2014	Student Leadership Award, Student Refugee Program, Dalhousie\
+2013	Renée Covill Scholarship, Dalhousie ($2000)\
+2013	Nova Scotia Institute of Agrologists Award, Dalhousie ($1000)\
+2012 	Renée Covill Scholarship, Dalhousie ($2000)\
+2011 	NSERC USRA ($4500)\
+2008	J. Harris Read Bursary, Cobequid Educational Centre ($4500)\
+
+
+
+

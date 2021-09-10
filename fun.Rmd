@@ -1,11 +1,15 @@
 ---
-title: "fun"
+title: "<span style='font-size: 20px'>fun</style>"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 I grew up in Nova Scotia, Canada, and like to think that [Drew Amyot sums it up nicely](https://www.flickr.com/photos/oakus/).
 
