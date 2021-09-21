@@ -15,7 +15,7 @@ Hi! I am a PhD Candidate supervised by [Quentin Cronk](http://cronklab.wikidot.c
 &nbsp;
 &nbsp;
 
-いらっしゃいませ！私はUBCの[生物多様性研究センター](https://biodiversity.ubc.ca/research)と植物学部の博士課程の学生です。私は、植物やハチドリの形態的、生態学的、遺伝的多様性の推進力としての共進化に興味を持っています。
+いらっしゃいませ！私は、UBCの生物多様性研究センターで [Quentin Cronk](http://cronklab.wikidot.com/) と[Jill Jankowski](https://www.zoology.ubc.ca/~jankowsk/)によって監督されている博士課程の候補者です。私は、植物やハチドリの形態的、生態学的、遺伝的多様性の推進力としての共進化に興味を持っています。
 
 &nbsp;
 &nbsp;
@@ -23,4 +23,4 @@ Hi! I am a PhD Candidate supervised by [Quentin Cronk](http://cronklab.wikidot.c
 
 <p align="center">
 ![](./media/lupin.JPG){width=40%}\
-Lupin is a 3 year old  [Queensland Heeler](https://en.wikipedia.org/wiki/Australian_Cattle_Dog#In_the_United_States)
+This is Lupin; he is a bloodthirsty [Queensland Heeler](https://en.wikipedia.org/wiki/Australian_Cattle_Dog#In_the_United_States)

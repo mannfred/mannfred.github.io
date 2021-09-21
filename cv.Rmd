@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 &nbsp;
 
-### rejections, shortcomings, failed attempts
+##### rejections, shortcomings, failed attempts
 
 2019 &ndash; manuscript rejection: PNAS, Ecology Letters\
 2018 &ndash; manuscript rejection: Wilson Journal of Ornithology\
@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 &nbsp;
 
-### the good times
+##### the good times
 
 **Training**
 
@@ -45,6 +45,8 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp;
 
 **Published Research**
+
+**Boehm MMA**, Jankowski JE, Cronk QCB. 2021 Plant-pollinator specialization: Origin and measurement of curvature. Accepted: *The American Naturalist* #60490R2.\
 
 **Boehm MMA**, Cronk QCB. 2021. Dark extinction: the problem of unknown historical extinctions. *Biology Letters* 17(3): 20210007.\
 
@@ -64,7 +66,6 @@ Rupasinghe HPV, **Boehm MMA**, Sekhon-Loodu S, Parmar I, Bors B, and Jamieson AR
 
 Santangelo J, et al. [**Boehm MMA** one of 218 authors]. Parallel environmental and evolutionary change in response to global urbanization.\
 
-**Boehm MMA**, Jankowski JE, Cronk QCB. 2021 Plant-pollinator specialization: Origin and measurement of curvature.\
 
 &nbsp;
 
