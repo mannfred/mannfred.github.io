@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I grew up in Nova Scotia, Canada, and like to think that [Drew Amyot sums it up nicely](https://www.flickr.com/photos/oakus/).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/oakus/38691524605/" title="I felt you push, I heard you call."><img src="https://live.staticflickr.com/4614/38691524605_879fc736eb_z.jpg" width="640" height="448" alt="I felt you push, I heard you call."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/oakus/38691524605/" title="I felt you push, I heard you call."><img src="https://live.staticflickr.com/4614/38691524605_879fc736eb_z.jpg" width="320" height="224" alt="I felt you push, I heard you call."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 &nbsp;
 

@@ -11,10 +11,10 @@
 
 
 
-<title>fun.knit</title>
+<title>fun </title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -48,6 +48,7 @@
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -68,6 +69,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -125,11 +129,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -158,8 +166,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -167,16 +175,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -220,7 +221,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -256,18 +257,22 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><span style='font-size: 20px'>fun
+<h1 class="title toc-ignore"><span style='font-size: 20px'>fun<br />
 </style></h1>
 
 </div>
 
 
 <p>     </p>
-<p>I grew up in Nova Scotia, Canada, and like to think that <a href="https://www.flickr.com/photos/oakus/">Drew Amyot sums it up nicely</a>.</p>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/oakus/38691524605/" title="I felt you push, I heard you call."><img src="https://live.staticflickr.com/4614/38691524605_879fc736eb_z.jpg" width="640" height="448" alt="I felt you push, I heard you call."></a>
+<p>I grew up in Nova Scotia, Canada, and like to think that <a
+href="https://www.flickr.com/photos/oakus/">Drew Amyot sums it up
+nicely</a>.</p>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/oakus/38691524605/" title="I felt you push, I heard you call."><img src="https://live.staticflickr.com/4614/38691524605_879fc736eb_z.jpg" width="320" height="224" alt="I felt you push, I heard you call."></a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <p> </p>
-<p>I like to use iNaturalist as a journal for <a href="https://www.inaturalist.org/people/mannfred">interesting outdoor treasures</a>.</p>
+<p>I like to use iNaturalist as a journal for <a
+href="https://www.inaturalist.org/people/mannfred">interesting outdoor
+treasures</a>.</p>
 
 
 
