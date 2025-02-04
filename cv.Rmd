@@ -44,9 +44,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-**Published Research**
+**Research**
 
-**Boehm MMA**, Jankowski JE, Cronk QCB. 2021 Plant-pollinator specialization: Origin and measurement of curvature. Accepted: *The American Naturalist* #60490R2.\
+Stralberg D, et al. [**Boehm MMA** one of 16 authors]. 2025. A generalized modeling framework for spatially extensive species abundance prediction and population estimation. In Revision. *Ecosphere*.\
+
+Barreto E, **Boehm MMA**, et al. 2024. Macroevolution in the plant-hummingbird pollination system. *Biological Reviews* 99(5): 1831-1847.\
+
+**Boehm MMA**, Guevara-Apaza D, Jankowski JE, Cronk QCB. 2022. Floral phenology of an Andean bellflower and pollination by Buff-tailed Sicklebill. *Ecology and Evolution* 12, e8988.\
+
+Santangelo J, et al. [**Boehm MMA** one of 288 authors]. 2022. Global urban environmental change drives adaptation in white clover. *Science* 375(6586): 1275-1281.\
+
+**Boehm MMA**, Jankowski JE, Cronk QCB. 2022 Plant-pollinator specialization: Origin and measurement of curvature. *The American Naturalist* 199(2): 206-222.\
 
 **Boehm MMA**, Cronk QCB. 2021. Dark extinction: the problem of unknown historical extinctions. *Biology Letters* 17(3): 20210007.\
 
@@ -60,11 +68,6 @@ Freeman BG, Scholer MN, **Boehm MMA**, Heavyside JM, Schluter D. 2020. Adaptatio
 
 Rupasinghe HPV, **Boehm MMA**, Sekhon-Loodu S, Parmar I, Bors B, and Jamieson AR. 2015. Anti-inflammatory activity of Haskap cultivars is polyphenols-dependent. *Biomolecules* 5(2): 1079-1098.\
 
-&nbsp;
-
-**In Review**
-
-Santangelo J, et al. [**Boehm MMA** one of 218 authors]. Parallel environmental and evolutionary change in response to global urbanization.\
 
 
 &nbsp;
