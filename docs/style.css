@@ -71,7 +71,7 @@ hr {
   }
 
   .menu a {
-    color: black;          /* Sets link text color */
+    color: navy;
   }
 
   .menu a:hover {
@@ -80,7 +80,12 @@ hr {
 
 
 a:link {
-  color: black;
+  color: navy;
+  background-color: transparent;
+}
+
+a:visited {
+  color: darkviolet;
   background-color: transparent;
 }
 
